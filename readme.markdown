@@ -1,4 +1,4 @@
-# Truck Trip Planner
+# Trip Planner
 
 Welcome to the **Truck Trip Planner**! This application helps you plan long-haul truck trips, automates route calculations, and simulates U.S. FMCSA Hours of Service (HOS) log sheets, including detecting regulation violations for over-the-road truck drivers.
 
