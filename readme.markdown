@@ -150,6 +150,3 @@ The application fails gracefully if:
 - Polyline route geometry can be visualized using any polyline mapping tool
 - Easily extendable for additional trip features, reporting, or vehicle constraints
 
----
-
-**⚠️ Disclaimer**: This application is for educational and planning purposes only. Always consult current FMCSA regulations and qualified professionals for actual compliance requirements.
